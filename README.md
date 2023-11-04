@@ -1,6 +1,6 @@
-# Ex-09-Data-Visualization-
+# Ex-09-Data-Visualization - 2
 
-## AIM
+# AIM
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
 # Explanation
@@ -18,6 +18,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE AND OUPUT
 NAME : R . JOYCE BEULAH
+
 REG NO : 212222230058
 
 ```
